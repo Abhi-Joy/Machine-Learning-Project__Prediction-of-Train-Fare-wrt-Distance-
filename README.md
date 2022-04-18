@@ -9,6 +9,8 @@ Jupyter
 #Project Summary:
 In this project, I tried to calculate FARE of multiple trains with respect to DISTANCE, with good accuracy.
 
+*I tried to keep short this project as much possible. So, i didn't print Viisualised data graph and model evaluation graph.
+
 
 
 
@@ -26,6 +28,7 @@ data=pd.read_csv(filename + '.csv'))
 
 #Tests:
 1.
+ 
  Which train you are looking for: 
  Rajdhani 
  Satabdi 
@@ -118,7 +121,8 @@ Your Input:Mail
  
  Fare of Ordinary for 5688.0 KM, of FC is ₹ [6624.00684287] *Taxes not included
 
-5. WRONG INPUT 
+5. WRONG INPUT
+ 
  Which train you are looking for: 
  Rajdhani 
  Satabdi 
