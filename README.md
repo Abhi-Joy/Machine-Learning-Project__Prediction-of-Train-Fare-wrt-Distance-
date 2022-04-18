@@ -121,6 +121,8 @@ Your Input:Mail
  
  Fare of Ordinary for 5688.0 KM, of FC is ₹ [6624.00684287] *Taxes not included
 
+
+
 5. WRONG INPUT
  
  Which train you are looking for: 
